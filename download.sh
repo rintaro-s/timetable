@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git clone https://github.com/rintaro-s/timetable.git
-cd timetable
 
 # パッケージのインストール
 sudo apt update
