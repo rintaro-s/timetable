@@ -29,4 +29,5 @@
 
 
 自分の場合↓
-![Screenshot_20241125-102025~2](https://github.com/user-attachments/assets/3f56ecde-d133-4030-8a5c-f409c99c22cf)
+
+![Screenshot_20241126-080348~2](https://github.com/user-attachments/assets/3776f1cf-d34d-4189-8104-fe26f2ddb61f)
